@@ -12,10 +12,13 @@ I'm a Software Engineer based in Seattle, WA with a passion for building scalabl
 
 ## 📌 Featured Projects
 
-- **[PhotoApplication](https://github.com/abhisekChowdhury/PhotoApplication-Backend)** — Full-stack social photo sharing app built with Angular (frontend) and Spring Boot (backend)
-- **[AirbnbBookingApp](https://github.com/abhisekChowdhury/AirbnbBookingApp)** — Android app for booking Airbnb listings using Kotlin and MongoDB
-- **[Parole Violation Risk Modeling](https://github.com/abhisekChowdhury/parole-violation-risk-modeling)** — Logistic regression model for risk prediction with bias analysis
+- **[Calendar](https://github.com/abhisekChowdhury/calendar)** — TypeScript-based calendar application
 - **[Milagro Store Profitability Forecasting](https://github.com/abhisekChowdhury/milagro-store-profitability-forecasting)** — Regression-based model predicting new restaurant location profitability
+- **[Parole Violation Risk Modeling](https://github.com/abhisekChowdhury/parole-violation-risk-modeling)** — Logistic regression model for risk prediction with bias analysis
+- **[BikeRentalApplication](https://github.com/abhisekChowdhury/BikeRentalApplication)** — Bike rental app built using Kotlin, Flask, and MongoDB
+- **[Hotel-Management-App](https://github.com/abhisekChowdhury/Hotel-Management-App)** — Windows application for hotel management with room booking, cancellations, and admin features
+- **[AirbnbBookingApp](https://github.com/abhisekChowdhury/AirbnbBookingApp)** — Android app for booking Airbnb listings using Kotlin and MongoDB
+- **[Olympics](https://github.com/abhisekChowdhury/olympics)** — Python-based data analysis project on Olympic datasets
 
 ## 📫 Connect With Me
 
