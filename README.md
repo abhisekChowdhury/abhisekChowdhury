@@ -1,4 +1,4 @@
-# Hi, I'm Abhisek Chowdhury 👋
+# Hi, I am Abhisek 👋
 
 I am a Software Engineer based in Seattle, WA with a passion for building scalable full-stack applications and data-driven systems. I enjoy working across the stack, from crafting clean front-end user interfaces to designing robust back-end services and exploring machine learning pipelines.
 
@@ -27,4 +27,4 @@ I am a Software Engineer based in Seattle, WA with a passion for building scalab
 
 ---
 
-*Currently open to Software Engineering opportunities. Feel free to reach out!*
+*Currently open to Software Engineering, Data Analyst, Data Engineer, and Product Management opportunities. Feel free to reach out!*
