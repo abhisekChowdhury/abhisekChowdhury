@@ -1,6 +1,6 @@
 # Hi, I'm Abhisek Chowdhury 👋
 
-I'm a Software Engineer based in Seattle, WA with a passion for building scalable full-stack applications and data-driven systems. I enjoy working across the stack — from crafting clean front-end UIs to designing robust back-end services and exploring machine learning pipelines.
+I am a Software Engineer based in Seattle, WA with a passion for building scalable full-stack applications and data-driven systems. I enjoy working across the stack, from crafting clean front-end user interfaces to designing robust back-end services and exploring machine learning pipelines.
 
 ## 🛠️ Tech Stack
 
@@ -8,17 +8,17 @@ I'm a Software Engineer based in Seattle, WA with a passion for building scalabl
 **Frontend:** Angular, React
 **Backend:** Spring Boot, Node.js, Flask
 **Databases:** MongoDB, PostgreSQL
-**Tools & Platforms:** Git, Firebase, Android Studio
+**Tools and Platforms:** Git, Firebase, Android Studio
 
 ## 📌 Featured Projects
 
-- **[Calendar](https://github.com/abhisekChowdhury/calendar)** — TypeScript-based calendar application
-- **[Milagro Store Profitability Forecasting](https://github.com/abhisekChowdhury/milagro-store-profitability-forecasting)** — Regression-based model predicting new restaurant location profitability
-- **[Parole Violation Risk Modeling](https://github.com/abhisekChowdhury/parole-violation-risk-modeling)** — Logistic regression model for risk prediction with bias analysis
-- **[BikeRentalApplication](https://github.com/abhisekChowdhury/BikeRentalApplication)** — Bike rental app built using Kotlin, Flask, and MongoDB
-- **[Hotel-Management-App](https://github.com/abhisekChowdhury/Hotel-Management-App)** — Windows application for hotel management with room booking, cancellations, and admin features
-- **[AirbnbBookingApp](https://github.com/abhisekChowdhury/AirbnbBookingApp)** — Android app for booking Airbnb listings using Kotlin and MongoDB
-- **[Olympics](https://github.com/abhisekChowdhury/olympics)** — Python-based data analysis project on Olympic datasets
+- **[Calendar](https://github.com/abhisekChowdhury/calendar)** - A TypeScript-based calendar application
+- **[Milagro Store Profitability Forecasting](https://github.com/abhisekChowdhury/milagro-store-profitability-forecasting)** - A regression-based model for predicting new restaurant location profitability
+- **[Parole Violation Risk Modeling](https://github.com/abhisekChowdhury/parole-violation-risk-modeling)** - A logistic regression model for risk prediction with bias analysis
+- **[BikeRentalApplication](https://github.com/abhisekChowdhury/BikeRentalApplication)** - A bike rental application built using Kotlin, Flask, and MongoDB
+- **[Hotel-Management-App](https://github.com/abhisekChowdhury/Hotel-Management-App)** - A Windows application for hotel management with room booking, cancellations, and admin features
+- **[AirbnbBookingApp](https://github.com/abhisekChowdhury/AirbnbBookingApp)** - An Android application for booking Airbnb listings using Kotlin and MongoDB
+- **[Olympics](https://github.com/abhisekChowdhury/olympics)** - A Python-based data analysis project on Olympic datasets
 
 ## 📫 Connect With Me
 
@@ -26,4 +26,4 @@ I'm a Software Engineer based in Seattle, WA with a passion for building scalabl
 
 ---
 
-*Currently open to Software Engineering opportunities — feel free to reach out!*
+*Currently open to Software Engineering opportunities. Feel free to reach out!*
