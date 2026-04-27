@@ -13,6 +13,7 @@ I am a Software Engineer based in Seattle, WA with a passion for building scalab
 ## 📌 Featured Projects
 
 - **[Calendar](https://github.com/abhisekChowdhury/calendar)** - A TypeScript-based calendar application
+- **[IIEST Shibpur Campus Explorer](https://campus-open-world.lovable.app/)** - A 3D open-world exploration game of the IIEST Shibpur campus, built as a passion project using Unity, C#, Antigravity, and Mixamo. [Download on itch.io](https://abhisekc.itch.io/campus)
 - **[Milagro Store Profitability Forecasting](https://github.com/abhisekChowdhury/milagro-store-profitability-forecasting)** - A regression-based model for predicting new restaurant location profitability
 - **[Parole Violation Risk Modeling](https://github.com/abhisekChowdhury/parole-violation-risk-modeling)** - A logistic regression model for risk prediction with bias analysis
 - **[BikeRentalApplication](https://github.com/abhisekChowdhury/BikeRentalApplication)** - A bike rental application built using Kotlin, Flask, and MongoDB
