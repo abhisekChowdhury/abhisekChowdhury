@@ -12,6 +12,7 @@ I am a Software Engineer based in Seattle, WA with a passion for building scalab
 
 ## 📌 Featured Projects
 
+- **[AI Support Agent for E-Commerce](https://github.com/abhisekChowdhury/calendar)** - Full-stack AI-powered customer support system with automated ticket resolution and intelligent escalation for fraud, legal, and complex issues
 - **[Calendar](https://github.com/abhisekChowdhury/calendar)** - A TypeScript-based calendar application
 - **[IIEST Shibpur Campus Explorer](https://campus-open-world.lovable.app/)** - A 3D open-world exploration game of the IIEST Shibpur campus, built as a passion project using Unity, C#, Antigravity, and Mixamo. [Download on itch.io](https://abhisekc.itch.io/campus)
 - **[Milagro Store Profitability Forecasting](https://github.com/abhisekChowdhury/milagro-store-profitability-forecasting)** - A regression-based model for predicting new restaurant location profitability
